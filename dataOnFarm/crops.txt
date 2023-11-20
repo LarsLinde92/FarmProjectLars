@@ -1,0 +1,6 @@
+1,Wheat,8
+2,Carrot,15
+3,Potato,5
+4,Corn,2
+5,bubbels,5
+6,Flesh,65
